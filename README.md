@@ -1,5 +1,7 @@
 # pyaur
 
+🌐 **Magyar** · [English](README.en.md) · [Deutsch](README.de.md) · [Polski](README.pl.md)
+
 **Minimalista, biztonságtudatos AUR helper Pythonban, a `yay` és a `paru` alternatívája.**
 
 A `pyaur` egyetlen Python fájl, ami csak a standard library-t használja. Telepít, frissít,
